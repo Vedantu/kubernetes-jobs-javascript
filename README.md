@@ -97,7 +97,7 @@ It returns 409 conflict if the job with same name already exists
 ```
 ## Steps for setting the flow
 * Create your kubernetes cluster (any cloud provider)
-* Create kube configuration on our servers from where you are going to launch a job
+* Create kube configuration on the servers from where you are going to launch a job
 * utilisize the yaml config and kubejob inside the folder given
   
 ## License
